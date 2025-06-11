@@ -1,0 +1,152 @@
+*{
+    background-c;
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+
+}
+
+nav {
+
+    background-color:rgb(44, 40, 40);
+    height: 1000px;
+    width: 770px;
+
+
+}
+
+
+
+nav .info-box {
+
+    width: 350px;
+    height: 500px;
+
+    background-color:rgb(161, 91, 91);;
+    position:absolute;
+    left: 588px;
+    top:210px;
+    border-radius: 20px;
+
+
+}
+
+
+.info-box  h2 {
+
+    position: ;
+    padding: 20px;
+    padding-left: 130px;
+    font-size: 30px;
+    color:rgb(240, 234, 234)
+
+
+    
+
+}
+
+.input1 input {
+    margin-left: 40px;
+    width: 259px;
+    height: 59px;
+    position: relative;
+    border-radius: 9px;
+    border: none;
+}
+    
+
+.input2 input {
+    
+    margin-left: 40px;
+    width: 259px;
+    height: 59px;
+    position: relative;
+    top: 10px;
+    border-radius: 9px;
+    border: none;
+
+
+}
+
+
+.forgot {
+
+    padding: 30px;
+    position: relative;
+    left: 80px;
+}
+
+
+.forgot a {
+
+    color: white;
+    font-size: 15px;
+}
+
+.forgot a:hover {
+
+    color:rgb(43, 41, 41);
+    transition: 0.25s ease;
+
+
+}
+
+
+.button1 button  {
+
+    width: 230px;
+    height: 40px;
+    position: relative;
+    left: 50px;
+    top: -15px;
+    background-color:rgb(220, 211, 211);
+    font-size:19px;
+    font-weight: bold;
+    color:rgb(0, 0, 0);
+    border-radius: 7px;
+
+
+}
+
+.button1  button:hover {
+
+    color:rgb(135, 69, 69);
+    background-color:rgb(192, 184, 184) ;
+    transition: 0.25s ease;
+
+
+}
+
+
+.loremtxt p {
+
+
+    text-align: left;
+    font-size: 13px;
+    position:relative;
+    top: 12px;
+    left:  15px;
+
+
+}
+
+
+.loremtxt p:hover {
+
+    color:rgb(246, 230, 230) ;
+    transition: 0.25s ease;
+
+}
+
+
+.design img {
+
+    width: 150px;
+    margin-left:    89px;
+}
+
+
+.input1 input::placeholder {
+
+    font-size: 13px;
+    color:rgb(72, 70, 70);}
