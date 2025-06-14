@@ -1,8 +1,9 @@
 *{
-    background-c;
+    
     margin: 0;
     padding: 0;
     font-family: arial;
+    
 
 }
 
@@ -15,6 +16,17 @@ nav {
 
 }
 
+nav .colorr {
+
+    background-color:rgb(157, 156, 156);
+    width: 750px;
+    height:  90000px;
+    position: relative;
+    left: 770px ;
+    
+    
+
+}
 
 
 nav .info-box {
