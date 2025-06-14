@@ -1,6 +1,4 @@
-# Login-Page
-
-# 🔐 Stylish Login Page with HTML & CSS
+# 🔐 Stylish Login Page with HTML & CSS (Only for Desktop Version) 
 
 Welcome to my simple yet elegant **Login Page** project!  
 This design is built using only **HTML and CSS**, with a focus on **clean UI, responsive layout**, and **modern design elements**.
